@@ -12,19 +12,21 @@ h1{
 .first{
 	background-color:white;
 	width:400px;
+	height:70px;
 	margin-left:40px;
 	padding:5px 10px 5px 10px;
 	border:1px solid lightgray;
 	
 }
-span{
-	margin-left:350px;
+.author{
+	text-align:right;
 	font-style:italic;
 }
 .second{
 	margin-top:20px;
 	background-color:white;
 	width:400px;
+	height:70px;
 	margin-left:40px;
 	padding:5px 10px 5px 10px;
 	border:1px solid lightgray;
